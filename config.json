@@ -1,4 +1,3 @@
 {    
-    "GENE_IDs_PATH": "/projects/qbio/bifo/users/FinlaySlorach/sge_scanning/gene_dictionary.txt",
-    "OVERHANGS_PATH": "HF_OverhangPairs.csv"
+    "OVERHANG_SET_30": "OverhangSet_30.txt"
 }
